@@ -1,2 +1,2 @@
 # Tecbootcamp-week1
-Homework fpr wk1
+Homework for wk1
